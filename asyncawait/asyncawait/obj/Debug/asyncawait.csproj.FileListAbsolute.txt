@@ -1,0 +1,10 @@
+C:\Users\HaGrIL\Source\Repos\asyncawait\asyncawait\obj\Debug\asyncawait.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Source\Repos\asyncawait\asyncawait\obj\Debug\asyncawait.Form1.resources
+C:\Users\HaGrIL\Source\Repos\asyncawait\asyncawait\obj\Debug\asyncawait.Properties.Resources.resources
+C:\Users\HaGrIL\Source\Repos\asyncawait\asyncawait\obj\Debug\asyncawait.csproj.GenerateResource.cache
+C:\Users\HaGrIL\Source\Repos\asyncawait\asyncawait\bin\Debug\asyncawait.exe.config
+C:\Users\HaGrIL\Source\Repos\asyncawait\asyncawait\bin\Debug\asyncawait.exe
+C:\Users\HaGrIL\Source\Repos\asyncawait\asyncawait\bin\Debug\asyncawait.pdb
+C:\Users\HaGrIL\Source\Repos\asyncawait\asyncawait\obj\Debug\asyncawait.exe
+C:\Users\HaGrIL\Source\Repos\asyncawait\asyncawait\obj\Debug\asyncawait.pdb
+C:\Users\HaGrIL\Source\Repos\asyncawait\asyncawait\obj\Debug\asyncawait.Form2_async_.resources
